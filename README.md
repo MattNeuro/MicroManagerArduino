@@ -1,8 +1,7 @@
 # MicroManagerArduino
-Arduino Nano pin-layout and firmware for use with MicroManager.
+Arduino Nano Every, pin-layout and firmware for use with MicroManager.
 
-See also: https://micro-manager.org/wiki/Arduino
-
+See also: https://micro-manager.org/wiki/Arduino and https://store.arduino.cc/arduino-nano-every 
 
 ----
 
